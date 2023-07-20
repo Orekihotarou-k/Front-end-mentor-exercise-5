@@ -10,7 +10,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [Links](#links)
   - [Built with](#built-with)
 - [Author](#author)
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub)
-- Live Site URL: [Add live site URL here](https://main--voluble-lollipop-78d5c6.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub]
+- Live Site URL: [https://main--voluble-lollipop-78d5c6.netlify.app]
 
 
 ### Built with
